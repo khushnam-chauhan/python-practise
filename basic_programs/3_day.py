@@ -5,22 +5,7 @@
 # # # # # else :
 # # # # #   print(f"{number}  is a odd number")
 
-# # # # #rollercoaster program (nested if else)
-
-# # # # print("welcome to roller coaster")
-# # # # height = int(input("what is your height?? "))
-# # # # if height >= 120:
-# # # #   age = int(input("what is your age?? "))
-# # # #   if age < 12:
-# # # #     print("you have to pay 5$")
-# # # #   elif age >= 18:
-# # # #     print("you have to pay 18$")
-# # # #   else:
-# # # #     print("you have to pay 7$")
-# # # # else:
-# # # #   print(
-# # # #       "you are not tall enough to ride this roller coaster come again later have a nice day.")
-
+#
 # # # height = float(input("enter your height in m: "))
 # # # weight = float(input("enter your weight in kg: "))
 
@@ -81,7 +66,7 @@ print(f"Your final bill is: {bill}$")
 # # for friendship calculator
 # from typing import Counter
 
-# print("Welcome to the Love Calculator!")
+# print("Welcome to the friendship Calculator!")
 # name1 = input("What is your name? \n")
 # name2 = input("What is their name? \n")
 # combined = name1 + name2
